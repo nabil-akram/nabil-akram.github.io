@@ -72,6 +72,6 @@ ul li a:hover{
 audio{
     padding-left: 480px;
     padding-top: 10px;
-    display:flex;
+    display: none;
 
 }
