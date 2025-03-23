@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)1%,rgba(255, 255, 255, 0.5)80%), url(4097436.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.text{
+    color: rgb(231, 204, 157);
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 100px;
+    padding-left: 450px;
+    white-space: nowrap;
+}
+
+.para{
+    color: rgb(0, 0, 0);
+    padding-top: 15px;
+    padding-left: 200px;
+    font-size: 22px;
+    font-family: Arial;
+    white-space: nowrap;
+}
+
+audio{
+    display: none;
+}
+
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.menu{
+    width: flex;
+    float: none;
+    height: flex;
+    font-size: 28px;
+    white-space: nowrap;
+}
+ul{
+    float: none;
+    display: flex;
+    justify-content: center;
+
+}
+ul li{
+    list-style:inside;
+    margin-left: 20px;
+    margin-top: 250px;
+}
+.list1{
+    box-shadow: inset 0 0 0 0 rgb(121, 180, 236);
+    text-decoration: none;
+    color: rgb(121, 180, 236);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.list1:hover{
+    color: #fff;
+    box-shadow: inset 350px 0 0 0 rgb(121, 180, 236);
+}
+.list2{
+    box-shadow: inset 0 0 0 0 rgb(99, 182, 150);
+    text-decoration: none;
+    color: rgb(99, 182, 150);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.list2:hover{
+    color: #fff;
+    box-shadow: inset 350px 0 0 0 rgb(99, 182, 150);
+}
+.list3{
+    box-shadow: inset 0 0 0 0 rgb(184, 120, 195);
+    text-decoration: none;
+    color: rgb(184, 120, 195);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.list3:hover{
+    color: #fff;
+    box-shadow: inset 350px 0 0 0 rgb(184, 120, 195);
+}
+.list4{
+    box-shadow: inset 0 0 0 0 rgb(195, 120, 148);
+    text-decoration: none;
+    color: rgb(195, 120, 148);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.list4:hover{
+    color: #fff;
+    box-shadow: inset 350px 0 0 0 rgb(195, 120, 148);
+}
+.list5{
+    box-shadow: inset 0 0 0 0 rgb(218, 118, 118);
+    text-decoration: none;
+    color: rgb(218, 118, 118);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.list5:hover{
+    color: #fff;
+    box-shadow: inset 350px 0 0 0 rgb(218, 118, 118);
+}
+.text2{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    margin-left: 480px;
+    white-space: nowrap;
+}
