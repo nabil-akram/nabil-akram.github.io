@@ -52,8 +52,8 @@ ul{
 
 ul li{
     list-style: none;
-    margin-right: 135px;
-    margin-top: 280px;
+    margin-left: 0px;
+    margin-top: 6px;
 }
 
 ul li a{
@@ -70,8 +70,7 @@ ul li a:hover{
 }
 
 audio{
+    display: none;
     padding-left: 480px;
     padding-top: 10px;
-    display: none;
-
 }
