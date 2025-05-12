@@ -70,7 +70,7 @@ ul li a:hover{
 }
 
 audio{
-    display: ;
+    display:flex ;
     padding-left: 480px;
     padding-top: 10px;
 }
