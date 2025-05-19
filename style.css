@@ -29,7 +29,7 @@
     color: rgb(249 188 160 / 76%);
     font-size: 45px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-left: 420px;
+    padding-left: 500px;
     width: max-content;
     padding-top: 200px;
     white-space: flex; 
@@ -52,7 +52,7 @@ ul{
 
 ul li{
     list-style: none;
-    margin-left: 200px;
+    margin-left: 0px;
     margin-top: 6px;
 }
 
