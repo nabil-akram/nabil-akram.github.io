@@ -45,14 +45,13 @@
 
 ul{
     float: none;
-    display: flex;
-    justify-content: center;
+    display: contents;
 
 }
 
 ul li{
     list-style: none;
-    margin-left: -50px;
+    margin-left: 150px;
     margin-top: 6px;
 }
 
