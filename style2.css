@@ -5,7 +5,7 @@
 }
 
 .main{
-    max-wdith: 100%;
+    max-width: 100%;
     background: linear-gradient(to top, rgba(0,0,0,0.5)1%,rgba(255, 255, 255, 0.5)80%), url(4097436.jpg);
     background-position: center;
     background-size: cover;
