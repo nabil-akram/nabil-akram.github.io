@@ -66,8 +66,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color: #fff;
-    box-shadow: inset 200px 0 0 0 rgb(255, 201, 157);
+    color: #ff9100;
 }
 
 audio{
