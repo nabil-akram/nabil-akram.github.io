@@ -4,7 +4,7 @@
 }
 
 .main{
-    max-width: 100%;
+    width: fit-content;
     background-image: url(5234768.jpg);
     background-position: center;
     background-repeat: no-repeat;
